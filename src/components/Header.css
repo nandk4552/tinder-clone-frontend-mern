@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom: 1px solid #ebebeb;
+}
+
+
+
+
+.header_logo {
+    object-fit: contain;
+    height: 30px;
+}
+
+.header_icon {
+    width: fit-content;
+    padding: 10px;
+    height: 30px;
+}
